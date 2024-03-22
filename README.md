@@ -1,2 +1,2 @@
 # json-excel-conversion-snippet
-Part of undergrad project 
+For undergrad project, this snippet maps the incoming json data into a predefined structure that aligns with ID3 decision tree attributes
